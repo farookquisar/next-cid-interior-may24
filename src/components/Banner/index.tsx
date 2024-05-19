@@ -5,7 +5,7 @@ const Banner = () => {
 		<div className="w-full lg:px-[150px] px-5 md:py-10 py-8 h-[700px]">
 			<div
 				className="w-full h-full bg-center bg-cover fex items-center rounded-lg"
-				style={{ backgroundImage: `url(${banner})` }}
+				style={{ backgroundImage: `url(${banner})` }} 
 			>
 				<div className="w-full bg-[#000000c2] lg:w-1/2 lg:px-0 px-10 h-full flex items-center justify-center rounded-tl-lg rounded-bl-lg">
 					<div className="flex flex-col items-start">
